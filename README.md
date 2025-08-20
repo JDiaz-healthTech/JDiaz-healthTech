@@ -1,9 +1,9 @@
 # ¡Hola! Soy Julio Díaz 👋 
 
-<a href="https://linkedin.com/in/juliodiaz-healthtech">
+<!--[<a href="https://linkedin.com/in/juliodiaz-healthtech">
   <img align="right" alt="Foto de Julio Díaz" width="220px" src="[URL_DE_TU_FOTO_PROFESIONAL_AQUI](https://www.linkedin.com/in/julio-diaz-healthtech/)" />
-</a>
-
+</a>](url)
+-->
 ¡Bienvenido/a a mi rincón en GitHub! 
 
 Soy un **Desarrollador de Software** que dio el salto desde el mundo de la audiología clínica al desarrollo de software. Me apasiona profundamente cómo la **tecnología y la Inteligencia Artificial** pueden mejorar la vida de las personas, en especial la de aquellas con necesidades especiales.
