@@ -1,7 +1,7 @@
 # ¡Hola! Soy Julio Díaz 👋 
 
 <a href="https://linkedin.com/in/juliodiaz-healthtech">
-  <img align="right" alt="Foto de Julio Díaz" width="220px" src="URL_DE_TU_FOTO_PROFESIONAL_AQUI" />
+  <img align="right" alt="Foto de Julio Díaz" width="220px" src="[URL_DE_TU_FOTO_PROFESIONAL_AQUI](https://www.linkedin.com/in/julio-diaz-healthtech/)" />
 </a>
 
 ¡Bienvenido/a a mi rincón en GitHub! 
