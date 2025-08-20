@@ -63,7 +63,7 @@ Siempre estoy buscando mejorar y aprender algo nuevo. Mis intereses actuales son
 Me encanta conectar con otros profesionales del sector. Puedes encontrarme en:
 
 <p align="left">
-<a href="https://linkedin.com/in/julio-diaz-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julio-diaz-dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/julio-diaz-healthtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julio-diaz-dev" height="30" width="40" /></a>
 </p>
 
 ¡Gracias por tu visita!
