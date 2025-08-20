@@ -8,7 +8,7 @@
 
 Soy un **Desarrollador de Software** que dio el salto desde el mundo de la audiología clínica al desarrollo de software. Me apasiona profundamente cómo la **tecnología y la Inteligencia Artificial** pueden mejorar la vida de las personas, en especial la de aquellas con necesidades especiales.
 
-[cite_start]Tras más de 10 años trabajando con pacientes en entornos clínicos [cite: 36][cite_start], aprendí la importancia del rigor, la empatía y la accesibilidad[cite: 246, 211], principios que ahora aplico a cada línea de código que escribo para construir soluciones tecnológicas con un impacto real.
+Tras más de 10 años trabajando con pacientes en entornos clínicos, aprendí la importancia del rigor, la empatía y la accesibilidad, principios que ahora aplico a cada línea de código que escribo para construir soluciones tecnológicas con un impacto real.
 
 ---
 
@@ -19,7 +19,7 @@ Actualmente formo parte del equipo de **Fundanet**, donde me dedico a:
 -   Mantenimiento evolutivo y soporte de una plataforma industrial a gran escala.
 -   **Modernizar código legacy (VB/VS2008)**, refactorizando y migrándolo a **.NET moderno**.
 -   Desarrollar nuevas funcionalidades con **C#** y optimizar el rendimiento de la base de datos con **SQL Server (T-SQL)**.
--   [cite_start]Colaborar activamente mediante `pair programming`, `code reviews` y control de versiones con `Git`[cite: 129].
+-   Colaborar activamente mediante `pair programming`, `code reviews` y control de versiones con `Git`.
 
 ---
 
